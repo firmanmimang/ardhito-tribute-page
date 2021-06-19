@@ -4,11 +4,12 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 body{
   font-family: 'Baloo Tammudu 2', cursive, sans-serif;
-  scroll-behavior: smooth;
+
 }
 
 /* main */
