@@ -38,6 +38,7 @@ body{
 
 #main #image{
   max-width: 100%;
+  min-width: 400px;
 }
 
 #main #img-caption{
